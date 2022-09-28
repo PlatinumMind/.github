@@ -2,6 +2,9 @@
 
 
 Welcome to the Plattinum Mind Github Repo </br>
-🍿 Fun facts: [ </br>
-  "Platinum Mind only has 2 memebers" </br>
-] </br>
+ ```js
+let Fun facts: [
+  "Platinum Mind only has 2 memebers",
+  "We create everything from software to hardware"
+]
+```
